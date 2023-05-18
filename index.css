@@ -1,0 +1,37 @@
+form {
+    border: 1px solid #ffa500;
+    margin: 220px;
+    margin-top: 1px;
+    border-radius: 5px;
+  }
+  h2 {
+    text-align: center;
+    color: #ffa500;
+    font-size: 160%;
+  }
+  p {
+    text-align: center;
+    font-size: 100%;
+  }
+  label {
+    padding: 5px;
+    font-size: 120%;
+  }
+  input  {
+    width: 200px;
+    margin: 3px;
+    padding: 5px;
+    font-size: 120%;
+  }
+  button {
+    
+    width: 800px;
+    margin: 3px;
+    padding: 5px;
+    font-size: 120%;
+    background-color: #ffa500;
+    border-color: #ffa500;
+    border-radius: 2px;
+
+  }
+  
